@@ -1,4 +1,4 @@
-# Healthcare, Lifestyle, and Addiction Indicators Analysis (Power BI)
+# Healthcare, Lifestyle, and Addiction Indicators Analysis using Power BI & Excel
 
 # Overview
 This project analyzes the relationship between demographic factors, lifestyle behaviors, mental health indicators, and addiction-related outcomes using Power BI. The goal is to identify population-level patterns that can support healthcare providers, addiction counselors, and public health decision-makers in identifying high-risk groups and intervention opportunities.
